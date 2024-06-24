@@ -19,4 +19,4 @@
 
 ## FAQ
 Q: Emulator working, page with hamster opened, script started, but there are no clicks.
-A: Try to change x y coordinates (by default x= , y= ).
+A: Try to change x y coordinates (by default x=500 , y=1450).
