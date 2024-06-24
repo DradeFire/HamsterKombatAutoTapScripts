@@ -11,7 +11,7 @@
 3. Setup Android Emulator.
 4. Download and login to Telegram in Emulator.
 5. Open page with your hamster.
-6. Launch script what you need right now.
+6. Launch script which you need right now.
 
 ## 2 script types
 1. Slow - for long working.
